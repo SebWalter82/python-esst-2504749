@@ -31,7 +31,7 @@ print(mein_text)
 var_wahr = True
 var_falsch = False
 print(var_wahr)
-
+25-00
 #Liste (Reihe von Variablen)
 var_meine_Liste = [0, 10]   #Die Eckige Klammer [] kommt mit opt + 5
 var_meine_Liste.append(70)  #Die Liste um die Zahl 70 erweitern.

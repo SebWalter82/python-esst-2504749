@@ -1,0 +1,20 @@
+# Operatoren
+'''
+< kleiner
+> größer 
+<= kleiner gleich
+== gleich (ein = ist schon die Zuweisung einer Variable)
+!= ungleich
+== und != nur bei ganzen Zahlen also var nicht float
+'''
+
+# if Abfrage
+'''
+if (Kondition):
+    #eingrückter Code (sonst geht der Code nicht)
+'''
+var_1 = 6
+var_2 = 7
+
+if var_1 < var_2:
+    print('Variable 1 ist kleiner als Variable 2.')
